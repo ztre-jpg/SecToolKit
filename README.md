@@ -1,4 +1,4 @@
-# 🔐 Security Toolkit — by Reax7
+# 🔐 Security Toolkit — by reax7
 **A modern, all-in-one cybersecurity toolkit built with Python & CustomTkinter.**  
 Generate, test, encode, and secure with style — featuring animations, light/dark themes, and 20+ useful tools for security, encryption, and daily development use.
 
