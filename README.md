@@ -63,7 +63,7 @@ All tools work 100% offline — no internet connection required.
    brew install python
 2. Navigate to your folder and install requirements:
    ```bash
-   cd ~/Desktop/Token\ Checker
+   cd ~/SecToolKit
    pip3 install -r requirements.txt
 3. Run the app
    ```bash
