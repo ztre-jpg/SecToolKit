@@ -44,14 +44,18 @@ All tools work 100% offline — no internet connection required.
 1. Make sure Python and Pip are installed:
    ```bash
    sudo apt update && sudo apt install python3 python3-pip -y
-2. Go to your Projects folder:
+2. Install SecTool:
    ```bash
-   cd ~/Desktop/SecToolKit
-3. If you are on Kali or an system with an external package management
+   git clone https://github.com/ztre-jpg/SecToolKit
+3. Navigate to the folder:
+   ```bash
+   cd SecToolKit
+   python3 sectool.py
+4. If you are on Kali or an system with an external package management
    ```bash
    python3 -m venv venv
    source venv/bin/activate
-4. Install all Dependecies and run
+5. Install all Dependecies and run
    ```bash
    pip install -r requirements.txt
    python3 sectool.py
